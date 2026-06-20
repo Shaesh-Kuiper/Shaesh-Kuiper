@@ -8,6 +8,10 @@
 
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+</div>
+
 ---
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
@@ -20,6 +24,20 @@
 - 📍 Chennai, India
 
 <br clear="right"/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+</div>
+
+## Holopin Batches
+
+[![Holopin Board](https://holopin.me/shaeshkuiper)](https://holopin.io/@shaeshkuiper)
+
+---
+
+## 🔥 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaesh-Kuiper&theme=react-dark&hide_border=true)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
@@ -48,16 +66,6 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-1300%2B%20Rated-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/CarbonMatrix)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight%201850%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shaesh_kuiper)
 
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaesh-Kuiper&theme=react-dark&hide_border=true)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
 ---
@@ -94,29 +102,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| 🔗 Project | 💡 What it does | 🧰 Stack |
-|---|---|---|
-| [CppCNN](https://github.com/Shaesh-Kuiper/CNN-FromScratch) | TinyVGG from scratch in C++ — manual backprop, multithreaded, 95%+ accuracy | C++ |
-| [HackRX RAG](https://github.com/Shaesh-Kuiper/HackRX_Rochinante) | Sub-20s RAG on 1000+ page docs — hybrid BM25+FAISS, GPU reranking | Python · FastAPI · PyTorch |
-| [VisAIon Platform](https://visaion.vercel.app) | State-level hackathon platform — JWT/RBAC, CI/CD, multi-round scoring | Next.js · TypeScript · PostgreSQL |
-| Edge AI Anomaly Detection | SIH'24 winner — drug precursor tamper detection on Pi 5, >98% recall | TFLite · Python |
-
----
-
-## 🏆 Achievements
-
-```
-🥇  Smart India Hackathon 2024          — National Winner, Govt. of India
-🥇  ML Maze Runner @ INVENTE '24        — SSN College of Engineering
-🥇  Stump The Data Datathon 2024        — SRM Trichy
-🥈  Global HyperLoop Competition GHC25  — Runner-up, Levitation Subsystem (IIT Madras)
-🥇  SaRaM Project Expo 2026             — Easwari Engineering College & SRM IST Ramapuram
-```
-
----
-
 ## 🎖️ Certifications & Badges
 
 <div align="left">
@@ -128,14 +113,6 @@
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 </div>
-
----
-
-## 🌐 Open Source
-
-[![Holopin Board](https://holopin.me/shaeshkuiper)](https://holopin.io/@shaeshkuiper)
-
-**Hacktoberfest Super Contributor** (6+ PRs) &nbsp;·&nbsp; **GSSoC 2025 Top Contributor** (5+ repos, 20+ PRs)
 
 ---
 
