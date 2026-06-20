@@ -35,6 +35,18 @@
 
 ---
 
+## 🎖️ Certifications & Badges
+
+<p align="left">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/SarveshR-3502/A181918305F8A35B?sharingId=8C7D22E8D1C06C0A" target="_blank"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="120" alt="Microsoft Certified: Azure Developer Associate"/></a>
+  <a href="https://www.credly.com/badges/7c75b5d3-5f8f-4275-abad-47cb5055cf30/public_url" target="_blank"><img src="assets/badges/aws-educate.png" width="120" alt="AWS Educate Cloud 101"/></a>
+  <a href="https://www.credly.com/badges/dfd4a91b-0f00-491f-8739-c559d43233f4/public_url" target="_blank"><img src="assets/badges/introduction-to-generative-ai.png" width="120" alt="Introduction to Generative AI"/></a>
+  <a href="https://www.credly.com/badges/3901d072-47b5-4eab-b442-c04ff4d92242/public_url" target="_blank"><img src="assets/badges/machine-learning-foundations.png" width="120" alt="Machine Learning Foundations"/></a>
+  <a href="https://www.credly.com/badges/898ca7b8-2c81-4486-8fcf-349fbc64c59a/public_url" target="_blank"><img src="assets/badges/eda.png" width="120" alt="EDA Badge"/></a>
+</p>
+
+---
+
 ## 🔥 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaesh-Kuiper&theme=react-dark&hide_border=true)
@@ -82,7 +94,7 @@
 <h4>AI & ML</h4>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,huggingface,fastapi" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi" />
   </a>
 </p>
 
@@ -102,19 +114,6 @@
 
 ---
 
-## 🎖️ Certifications & Badges
-
-<div align="left">
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7c75b5d3-5f8f-4275-abad-47cb5055cf30" data-share-badge-host="https://www.credly.com"></div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dfd4a91b-0f00-491f-8739-c559d43233f4" data-share-badge-host="https://www.credly.com"></div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3901d072-47b5-4eab-b442-c04ff4d92242" data-share-badge-host="https://www.credly.com"></div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="898ca7b8-2c81-4486-8fcf-349fbc64c59a" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
