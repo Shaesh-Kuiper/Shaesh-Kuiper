@@ -14,12 +14,9 @@
 
 ### 🧠 About Me
 
-- 🎓 **CS Undergrad** at Easwari Engineering College (GPA: **8.90/10**)
+- 🚀 You're Friendly Neighbourhood Astrophotographer
+- 🔬 Machine Learning Enthusiast
 - 🏆 **Smart India Hackathon 2024** National Winner
-- 🔬 ML Research Intern @ SRM Group — Tumor detection (93%+ mAP)
-- ⚙️ Built a [CNN from scratch in pure C++](https://github.com/Shaesh-Kuiper/CNN-FromScratch) — no libraries, 95%+ accuracy
-- 🚀 RAG system benchmarked against LongRAG/MacRAG
-- 🌌 Astrophotographer when I'm not training models
 - 📍 Chennai, India
 
 <br clear="right"/>
